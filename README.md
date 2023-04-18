@@ -10,9 +10,9 @@ All Live-Site Link
 
 - [knowledge-cafe-react](https://knowledge-cafe-fakrul-hossain.netlify.app/) <br>
 
-- [t-shirt-store](https://t-shirt-store-fakrul-hossain.netlify.app/) <br>
+- [ai-universe-react](https://ai-univerise-fakrul-hossain.netlify.app/) <br>
 
-- [t-shirt-store](https://t-shirt-store-fakrul-hossain.netlify.app/) <br>
+- [quiz-hero(Debugging problem)](https://quiz-hero-fakrul-hossain.netlify.app/) <br>
 
 - [t-shirt-store](https://t-shirt-store-fakrul-hossain.netlify.app/) <br>
 
