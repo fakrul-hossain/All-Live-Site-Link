@@ -1,4 +1,4 @@
 # All-Live-Site-Link
 All Live-Site Link
 
-* simplyhired-react [dkdf]
+* simplyhired-react (https://simplyhired-react-fakrul-hossain.netlify.app/)
